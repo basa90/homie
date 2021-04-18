@@ -17,6 +17,10 @@ HOMIE is the API REST.
 6. The local endpoint is in `http://localhost:3000`.
 7. Enjoy.
 
+## Wiki
+
+[HOMIE-WIKI](https://github.com/basa90/homie/wiki)
+
 ## License
 
 MIT
